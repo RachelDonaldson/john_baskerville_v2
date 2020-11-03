@@ -15,4 +15,4 @@ Created my first webpage marking up some plain text with HTML5
 
 History of Type
 ===============
-[Version 1](https://racheldonaldson.github.io/john_baskerville_v2/baskerville-One.html)
+[Version 1](https://racheldonaldson.github.io/john_baskerville_v2/type_history.html)
