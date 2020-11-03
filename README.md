@@ -1,6 +1,6 @@
 John Baskerville
 ================
-[Version 1](https://racheldonaldson.github.io/john_baskerville_v2/baskerville-One.html)
+[Version 1](https://racheldonaldson.github.io/john_baskerville_v2/john_baskerville.html)
 *02 November 202*
 Created my first webpage marking up some plain text with HTML5
 
