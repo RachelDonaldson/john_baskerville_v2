@@ -1,10 +1,10 @@
 John Baskerville
 ================
 [Version 1](https://racheldonaldson.github.io/john_baskerville_v2/john_baskerville.html)
-*02 November 202*
+*02 November 2020*
 Created my first webpage marking up some plain text with HTML5
 
-[Version 2](https://racheldonaldson.github.io/john_baskerville_v2/baskerville-twoe.html)
+[Version 2](https://racheldonaldson.github.io/john_baskerville_v2/john_baskerville_v2.html)
 
 
 
