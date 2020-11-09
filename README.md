@@ -18,4 +18,4 @@ Created my second webpage marking up some plain text with HTML5
 
 [Version 2](https://racheldonaldson.github.io/john_baskerville_v2/type_history_v2.html)
 *09 November 2020*
-Created my second webpage marking up some plain text with HTML5
+Added CSS to my HTML5 webpage
