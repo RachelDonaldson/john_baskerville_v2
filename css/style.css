@@ -54,7 +54,7 @@ blockquote cite {
 }
 
 header h2 {
-  font-style:italic;
+  font-style: italic;
   text-align: center;
   margin-top: 0;
   margin-bottom: 1.5em;
@@ -104,12 +104,12 @@ nav ul li {
 }
 
 nav a {
-  color: #fdfdfd
+  color: #fdf0ea
 }
 
 nav a:hover {
   border-bottom: none;
-  color: #fdfdfd;
+  color: #ffd8c8;
 }
 /*------ FOOTER ------*/
 footer {
