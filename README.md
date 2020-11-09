@@ -6,7 +6,7 @@ Created my first webpage marking up some plain text with HTML5
 
 [Version 2](https://racheldonaldson.github.io/john_baskerville_v2/john_baskerville_v2.html)
 *09 November 2020*
-Added CSS to my HTML5 Webpage
+Added CSS to my HTML5 webpage
 
 
 
