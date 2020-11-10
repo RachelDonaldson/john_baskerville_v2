@@ -45,18 +45,6 @@ h3 {
   margin: 3em 0 1em 0;
 }
 
-blockquote {
-  color: #fc6453;
-  margin-left: 2em;
-  margin-right: 2em;
-  hanging-punctuation: first;
-  text-indent: -0.44em;
-}
-
-blockquote cite {
-  font-size: 0.75em;
-  color: #534858;
-}
 
 header h2 {
   font-style: italic;
@@ -72,17 +60,16 @@ header p {
 
 /*------ STYLING LINKS ------*/
 a {
-  color: #fc6453;
+  color: #fdf0ea;
   text-decoration: none;
 }
 
 a:visited {
-  color: #fc6453;
+  color: #fdf0ea;
 }
 
 a:hover {
-  color: #e5302d;
-  border-bottom: 1px dotted;
+  color: #ffd8c8;
 }
 
 /*------ NAVIGATION ------*/
@@ -109,18 +96,7 @@ nav ul li {
   background: none;
 }
 
-nav a {
-  color: #fdf0ea
-}
 
-nav a:visited {
-  color: #fdf0ea;
-}
-
-nav a:hover {
-  border-bottom: none;
-  color: #ffd8c8;
-}
 /*------ FOOTER ------*/
 footer {
   text-align center;
