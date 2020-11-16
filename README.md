@@ -8,6 +8,9 @@ Created my first webpage marking up some plain text with HTML5
 *09 November 2020*
 Added CSS to my HTML5 webpage
 
+[Version 3](https://racheldonaldson.github.io/john_baskerville_v2/john_baskerville_v3.html)
+*16 November 2020*
+Added google fonts to my webpage
 
 
 History of Type
