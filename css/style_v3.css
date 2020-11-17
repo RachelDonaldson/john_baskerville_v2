@@ -34,7 +34,7 @@ header {
   font-family: 'Libre Baskerville', serif;
 }
 
-nav, p, blockquote cite, footer { font-family:'Raleway', sans-serif;}
+nav, blockquote cite, footer { font-family:'Raleway', sans-serif;}
 
 h1 {
   font-size: 4em;
@@ -53,7 +53,7 @@ blockquote {
   margin-left: 2em;
   margin-right: 2em;
   hanging-punctuation: first;
-  text-indent: -0.44em;
+  text-indent: -0.1em;
   font-family: 'Libre Baskerville', serif;
 }
 
@@ -70,8 +70,9 @@ header h2 {
 }
 
 header p {
-  font-size: 1.2em;
+  font-size: 1em;
   text-align: center;
+  font-family: 'Libre Baskerville', serif;
 }
 
 hr {
