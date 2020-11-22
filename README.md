@@ -22,3 +22,14 @@ Created my second webpage marking up some plain text with HTML5
 [Version 2](https://racheldonaldson.github.io/john_baskerville_v2/type_history_v2.html)
 *09 November 2020*
 Added CSS to my HTML5 webpage
+
+[Version 3](https://racheldonaldson.github.io/john_baskerville_v2/type_history_v3.html)
+*22 November 2020*
+Added variable fonts
+
+
+Baskerville Variations
+======================
+[Version 1](https://racheldonaldson.github.io/john_baskerville_v2/john_baskerville_variations.html)
+*22 November 2020*
+Added new web page with 3 variations of text formatting
