@@ -12,6 +12,10 @@ Added CSS to my HTML5 webpage
 *16 November 2020*
 Added google fonts to my webpage
 
+[Version 4](https://racheldonaldson.github.io/john_baskerville_v2/john_baskerville_v4.html)
+*23 November 2020*
+Added a table to my webpage
+
 
 History of Type
 ===============
