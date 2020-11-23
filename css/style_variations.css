@@ -78,20 +78,10 @@ blockquote cite {
 }
 
 
-
 header p {
   font-size: 1em;
   margin-bottom: 2em;
 }
-
-.has-dropcap:first-letter {
-  float: left;
-  font-size: 4.5em;
-  line-height: 0.5;
-  margin-right: 3px;
-
-}
-
 
 hr {
   margin: 3em 0;
@@ -101,9 +91,10 @@ hr {
   border: 0 none;
 }
 
-.leader {
-  text-transform: uppercase;
-  color: #fc6453;
-  font-family: 'Baskervville', serif;
-  font-variant-numeric; oldstyle-nums;
+.has-dropcap:first-letter {
+  float: left;
+  font-size: 4.5em;
+  line-height: 0.5;
+  margin-right: 3px;
+
 }
