@@ -31,6 +31,10 @@ Added CSS to my HTML5 webpage
 *22 November 2020*
 Added variable fonts
 
+[Version 4](https://racheldonaldson.github.io/john_baskerville_v2/type_history_v4.html)
+*29 November 2020*
+Added images
+
 
 Baskerville Variations
 ======================
