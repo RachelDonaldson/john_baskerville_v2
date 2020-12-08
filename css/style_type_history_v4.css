@@ -118,6 +118,39 @@ nav a:hover {
   border-bottom: none;
   color: #ffd8c8;
 }
+
+/*------ TABLE STYLE------*/
+
+table {
+  margin: auto;
+  display: table;
+  border-collapse: collapse;
+  border-spacing: 5px;
+  margin-bottom: 2em;
+  width: 100%;
+}
+
+caption {
+  margin: 1.5em 0;
+  text-transform: uppercase;
+}
+
+th {
+  color: #fdfdfd;
+  font-weight: normal;
+  text-align: left;
+  background: #fc6453;
+}
+
+th, td {
+  padding: 0.6em
+}
+
+table, td{
+  background: #ffe1d7;
+  border: 1px solid #fdfdfd;
+}
+
 /*------ FOOTER ------*/
 footer {
   text-align center;

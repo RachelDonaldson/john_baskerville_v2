@@ -93,7 +93,10 @@ blockquote cite {
 
 .version1 .intro {padding-bottom: 1em;}
 
-.version1 blockquote {line-height: 1.4}
+.version1 blockquote {
+  line-height: 1.4;
+  padding-top: 1em;
+}
 
 
 /*------ STYLING VERSION 2 ------*/
@@ -110,12 +113,16 @@ blockquote cite {
      font-style: normal;
      text-transform: uppercase;}
 
- .version2 p+p {margin-bottom: -0.1em;}
+.version2 p {line-height: 1.6}
+
+ .version2 p+p {margin-bottom: -0.1em}
 
  .version2 p+p+p {
      text-indent:1.5em;
      margin-bottom: 1.75em;
    }
+
+  .version2 blockquote {line-height:1.4}
 
 /*------ STYLING VERSION 3 ------*/
 
