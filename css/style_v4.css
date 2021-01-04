@@ -158,8 +158,8 @@ caption {
 }
 
 th {
-  color: #fdfdfd
-  font- weight: normal;
+  color: #fdfdfd;
+  font-weight: normal;
   text-align: left;
   background: #fc6453;
 }
@@ -179,9 +179,7 @@ img {
   display: block;
   margin: 4em 0;
   padding: 0;
-  max- width: 100%;
-
-
+  max-width: 100%;
 }
 
 
